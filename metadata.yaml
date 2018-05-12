@@ -1,0 +1,28 @@
+_repo: Venereal-Diseases-in-New-Zealand--1922---13-Report-of-the-Special-Committee-of-the-Board-of-H__15352
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: New Zealand. Committee of the Board of Health
+    gutenberg_agent_id: '6008'
+    url: http://www.gutenberg.org/2009/agents/6008
+description: ''
+gutenberg_bookshelf:
+- New Zealand
+- Medicine
+gutenberg_issued: '2005-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15352'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sexually transmitted diseases -- New Zealand'
+- !lcc 'RA'
+title: "Venereal Diseases in New Zealand (1922)\r\nReport of the Special Committee\
+  \ of the Board of Health appointed by the Hon. Minister of Health"
+url: http://www.gutenberg.org/ebooks/15352
