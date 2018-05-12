@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6008'
     url: http://www.gutenberg.org/2009/agents/6008
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15352#Venereal-Diseases-in-New-Zealand--1922---13-Report-of-the-Special-Committee-of-the-Board-of-H_
 gutenberg_bookshelf:
 - New Zealand
 - Medicine
